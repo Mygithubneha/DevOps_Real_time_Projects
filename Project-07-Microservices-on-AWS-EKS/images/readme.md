@@ -126,3 +126,18 @@ $ curl http://<host>:8080/api/cart/metrics
 $ curl http://<host>:8080/api/payment/metrics
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
